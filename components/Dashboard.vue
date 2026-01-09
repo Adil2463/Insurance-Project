@@ -100,7 +100,7 @@ const rows = [{
             <div class="flex justify-between gap-6">
                 <div class="flex px-[15px] bg-[#F7FAFA] py-3 border border-solid border-[#D2D2D2] rounded-sm  w-[1150px] ">
                     <img class="w-[18px] h-[18px]" src="../assets/images/dashboard page/dashboardsearch.svg" alt="">
-                    <input type="text" class="w-full h-5 ml-0.5 text-[#000000] text-base font-['Inter'] font-normal not-italic leading-5  ">
+                    <input type="text" class="w-full h-5 ml-0.5 pl-2 text-[#000000] text-base font-['Inter'] font-normal not-italic leading-5 outline-none  ">
                 </div>
                 <div class="bg-[#59D19D] rounded-sm px-4 flex justify-center items-center cursor-pointer ">
                     <button class=" text-[#FFFFFF] text-center font-['Inter'] text-sm leading-[21px] not-italic font-bold  cursor-pointer ">GET A PREMIUM</button>
